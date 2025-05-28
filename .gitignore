@@ -1,2 +1,5 @@
 *__pycahce__*
 *.pyc
+
+input_videos/*.mp4
+models/*.pt
