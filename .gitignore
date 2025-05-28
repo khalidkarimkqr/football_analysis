@@ -1,5 +1,10 @@
 *__pycahce__*
 *.pyc
 
-input_videos/*.mp4
-models/*.pt
+input_videos/
+runs/
+*.mp4
+*.avi
+
+*.pt
+
