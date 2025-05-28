@@ -1,2 +1,3 @@
-import torch
-print("PyTorch version:", torch.__version__)
+import sys
+print(sys.executable)
+
